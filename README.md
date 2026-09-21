@@ -1,7 +1,5 @@
-# Gestión de Viajes
-
-Proyecto para la gestión y organización de viajes.
-
-## Estado
-
-En desarrollo.
+# ITALIAN
+Agencia de viajes
+***
+# DESCRIPCION
+Se realiza aplicacion web para la agencia de viajes italian, para el control de viajes-nacionales e internacionales y tours
